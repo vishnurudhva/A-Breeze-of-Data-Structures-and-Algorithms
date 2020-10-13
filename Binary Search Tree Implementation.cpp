@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Implementation of Binary Search Tree Data Structure
+
 struct Node{
   int value;
   Node *left;
